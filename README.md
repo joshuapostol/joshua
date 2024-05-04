@@ -1,3 +1,6 @@
+![Alt text](https://i.imgur.com/GKSYZgr.jpeg)
+
+
 pkg install update
 
 pkg install upgrade
