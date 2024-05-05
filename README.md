@@ -12,7 +12,7 @@ git clone https://github.com/joshuapostol/joshua
 
 cd  joshua
 
-python joshua.py or python3 joshua.py
+python joshuaapostol.py or python3 joshuaapostol.py
 
 ![Alt text](https://i.imgur.com/GKSYZgr.jpeg)
 
