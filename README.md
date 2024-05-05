@@ -2,6 +2,8 @@ pkg update
 
 pkg upgrade
 
+pkg install python-pip
+
 pip install requests
 
 pip install mechanize
