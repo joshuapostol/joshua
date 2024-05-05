@@ -1,6 +1,6 @@
-pkg install update
+pkg update
 
-pkg install upgrade
+pkg upgrade
 
 pip install requests
 
