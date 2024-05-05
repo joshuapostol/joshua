@@ -2,6 +2,8 @@ pkg update
 
 pkg upgrade
 
+pkg install git
+
 pkg install python-pip
 
 pip install requests
